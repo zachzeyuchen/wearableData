@@ -1,4 +1,4 @@
-Get a tidy data from UCI HAR Dataset
+Get tidy data from UCI HAR Dataset
 ============
 
 Course Project of Getting and Cleaning Data on Coursera
